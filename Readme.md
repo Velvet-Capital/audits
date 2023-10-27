@@ -15,7 +15,7 @@ DeFi Operating System for Seamless On-Chain Fund Creation
 ## Audit reprt
 
 ### V2
-- [peckshield](hhttps://github.com/Velvet-Capital/audits/blob/main/PeckShield-Audit-Report-VelvetV2-v1.0-2.pdf)
+- [peckshield](https://github.com/Velvet-Capital/audits/blob/main/PeckShield-Audit-Report-VelvetV2-v1.0-2.pdf)
 - [Shellboxes](https://github.com/Velvet-Capital/audits/blob/main/Velvet_Capital_V2_Security_Audit_Report.pdf)
 - 
 
