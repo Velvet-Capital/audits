@@ -14,7 +14,13 @@ DeFi Operating System for Seamless On-Chain Fund Creation
 
 ## Audit report
 
-### V2
+### Velvet-core
+- [Softstack](https://github.com/Velvet-Capital/audits/blob/main/Smart_Contract_Audit_Velvet_Capital_Corev3_13072024-1.pdf)
+- [Resonance](TBD)
+- [Hats Finance](https://github.com/hats-finance/Velvet-Capital-0x0bb0c08fd9eeaf190064f4c66f11d18182961f77)  Audit competition
+
+
+### V2 (beta)
 - [peckshield](https://github.com/Velvet-Capital/audits/blob/main/PeckShield-Audit-Report-VelvetV2-v1.0-2.pdf)
 - [Shellboxes](https://github.com/Velvet-Capital/audits/blob/main/Velvet_Capital_V2_Security_Audit_Report.pdf)
 - [Shellboxes](https://github.com/Velvet-Capital/audits/blob/main/Velvet_Capital_V2_Arbitrum_Security_Audit_Report-1.pdf)  Arbitrum network
