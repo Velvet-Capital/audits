@@ -16,7 +16,7 @@ DeFi Operating System for Seamless On-Chain Fund Creation
 
 ### Velvet-core
 - [Softstack](https://github.com/Velvet-Capital/audits/blob/main/Smart_Contract_Audit_Velvet_Capital_Corev3_13072024-1.pdf)
-- [Resonance](TBD)
+- [Resonance](https://github.com/Velvet-Capital/audits/blob/main/Audit_Report_VLVT-V3C_FINAL_20.pdf)
 - [Hats Finance](https://github.com/Velvet-Capital/audits/blob/main/report.md)  Audit competition
 
 
