@@ -14,6 +14,10 @@ DeFi Operating System for Seamless On-Chain Fund Creation
 
 ## Audit report
 
+### Upcoming version
+- [PeckShield](https://github.com/Velvet-Capital/audits/blob/main/PeckShield-Audit-Report-VelvetV4-v1.0-3.pdf)
+
+
 ### Velvet-core
 - [Softstack](https://github.com/Velvet-Capital/audits/blob/main/Smart_Contract_Audit_Velvet_Capital_Corev3_13072024-1.pdf)
 - [Resonance](https://github.com/Velvet-Capital/audits/blob/main/Audit_Report_VLVT-V3C_FINAL_20.pdf)
