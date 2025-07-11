@@ -17,6 +17,9 @@ DeFi Operating System for Seamless On-Chain Fund Creation
 ### Upcoming version
 - [PeckShield](https://github.com/Velvet-Capital/audits/blob/main/PeckShield-Audit-Report-VelvetV4-v1.0-3.pdf)
 
+### TGE version
+- [Cantina](https://github.com/Velvet-Capital/audits/blob/main/report-cantinacode-velvet-0807-1.pdf)
+
 
 ### Velvet-core
 - [Softstack](https://github.com/Velvet-Capital/audits/blob/main/Smart_Contract_Audit_Velvet_Capital_Corev3_13072024-1.pdf)
